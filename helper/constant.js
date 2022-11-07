@@ -1,0 +1,1 @@
+export const COMPANY_NAME = "Devops Technology Pvt. Ltd."
